@@ -1,7 +1,7 @@
 # simplehtml5game
 
 ##Why?
-  This is a very simple old school shooter. I developed it to try Canvas &amp; sound handling in HTML5
+  This is a very simple old school shooter. I developed it to try Canvas and sound handling in HTML5. It's furnished in an Express server, but you can just grab the front-end code in the public folder.
 
 ###Can I try it?
   Of course ! You can play here :  https://simplehtml5game.herokuapp.com/ 
