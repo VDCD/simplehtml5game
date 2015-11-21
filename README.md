@@ -1,7 +1,11 @@
 # simplehtml5game
-This is a simple old school shooter. I developed it to try Canvas &amp; sound handling in HTML5
 
-You can play it here :  https://simplehtml5game.herokuapp.com/ 
+##Why?
+  This is a very simple old school shooter. I developed it to try Canvas &amp; sound handling in HTML5
 
-Move your ship with ZQSD or WASD (both work !).
-Might take a phew seconds to load depending on your connection, because of the images & sounds required to play.
+###Can I try it?
+  Of course ! You can play here :  https://simplehtml5game.herokuapp.com/ 
+
+###How can i play?
+  Move your ship with ZQSD or WASD (both work !).
+  Might take a phew seconds to load depending on your connection, because of the images & sounds required to play.
