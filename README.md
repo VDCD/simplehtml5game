@@ -8,4 +8,6 @@
 
 ###How can i play?
   Move your ship with ZQSD or WASD (both work !).
+  Press Space to fire bullets.
+  You can go from one edge to the other (just continue in the direction of the edge, you'll be "teleported" on the other side).
   Might take a phew seconds to load depending on your connection, because of the images & sounds required to play.
